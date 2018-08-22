@@ -12,6 +12,12 @@ https://github.com/awesomedata/awesome-public-datasets
 
 https://www.kdnuggets.com/datasets/index.html
 
+
+== UMBC ==
+
+https://umbcdatasci.slack.com/stats
+Export CSV > all time
+
 == government ==
 
 http://data.un.org/
@@ -22,6 +28,12 @@ https://catalog.data.gov/dataset
 
 Library of Congress
 https://labs.loc.gov/
+
+== plain text ==
+
+https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+
+https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 
 == images ==
 https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#Image_data
