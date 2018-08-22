@@ -1,16 +1,6 @@
-== how to data science ==
-
-data science from scratch: first principles with python
-Joel Grus
-http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf
-
-data science: theories, models, algorithms, and analytics
-S R Das
-https://srdas.github.io/Papers/DSA_Book.pdf
+== websites on how to data science ==
 
 https://yanirseroussi.com/2018/07/22/defining-data-science-in-2018/
-
-https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/
 
 https://www.datasciencecentral.com/
 
@@ -18,6 +8,7 @@ http://www.datascienceglossary.org/
 
 == history  of data science ==
 
+white paper
 https://courses.csail.mit.edu/18.337/2015/docs/50YearsDataScience.pdf
 
 == free classes in data science ==
@@ -49,10 +40,15 @@ https://www.kdnuggets.com/2017/09/data-science-imposter-syndrome.html
 "data science from scratch: first principles with python" by Joel Grus
 ISBN 149190142X
 Publisher: O'Reilly Media
+http://math.ecnu.edu.cn/~lfzhou/seminar/[Joel_Grus]_Data_Science_from_Scratch_First_Princ.pdf
 
 "Python Data Science Handbook" by Jake VanderPlas
 ISBN 1491912057
 Publisher: O'Reilly Media
+https://jakevdp.github.io/PythonDataScienceHandbook/
+https://github.com/jakevdp/PythonDataScienceHandbook
+https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
+https://news.ycombinator.com/item?id=15127672
 
 "Data Wrangling with Python: Tips and Tools to Make Your Life Easier" by Jacqueline Kazil and Katharine Jarmul
 ISBN 1491948817
@@ -62,15 +58,22 @@ Publisher: O'Reilly Media
 ISBN 1633430278
 Publisher: Manning Publications
 
+list of books:
 https://www.learndatasci.com/free-data-science-books/
 https://news.ycombinator.com/item?id=10190740
 
-https://jakevdp.github.io/PythonDataScienceHandbook/
-https://github.com/jakevdp/PythonDataScienceHandbook
-https://www.amazon.com/Python-Data-Science-Handbook-Essential/dp/1491912057
-https://news.ycombinator.com/item?id=15127672
+https://fivebooks.com/best-books/computer-science-data-science-hadley-wickham/
 
-Foundations of Data Science
+"data science: theories, models, algorithms, and analytics"
+S R Das
+https://srdas.github.io/Papers/DSA_Book.pdf
+
+"Mining Massive Datasets"
+Jure Leskovec, Anand Rajaraman, Jeff Ullman
+http://www.mmds.org/
+http://infolab.stanford.edu/~ullman/mmds/book.pdf
+
+"Foundations of Data Science"
 https://www.cs.cornell.edu/jeh/book.pdf
 Avrim Blum, John Hopcroft, and Ravindran Kannan
 https://news.ycombinator.com/item?id=12659141
