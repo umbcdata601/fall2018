@@ -26,16 +26,33 @@ baseball - https://en.wikipedia.org/wiki/Sabermetrics
 
 == government ==
 
-http://data.un.org/
+==== city: baltimore ====
 
-https://data.worldbank.org/
+https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij
+analysis: https://www.facebook.com/notes/joe-dinoto/analysis-of-baltimore-crime/1949976581926262/
+
+analysis of population:
+http://worldpopulationreview.com/us-cities/baltimore-population/
+
+==== state: maryland ====
+
+==== state: new york ====
+
+https://data.ny.gov/
+
+==== country: united states ====
 
 https://catalog.data.gov/dataset
 
 Library of Congress
 https://labs.loc.gov/
 
-https://data.ny.gov/
+https://www.census.gov/data/data-tools.html
+
+==== world ====
+http://data.un.org/
+
+https://data.worldbank.org/
 
 == plain text ==
 
