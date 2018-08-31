@@ -12,6 +12,8 @@ https://github.com/awesomedata/awesome-public-datasets
 
 https://www.kdnuggets.com/datasets/index.html
 
+Journal of Statistics Education Data Archive
+http://ww2.amstat.org/publications/jse/jse_data_archive.htm
 
 == UMBC ==
 
@@ -26,7 +28,11 @@ baseball - https://en.wikipedia.org/wiki/Sabermetrics
 
 == government ==
 
-==== city: baltimore ====
+==== city: Chicago ====
+
+https://data.cityofchicago.org/
+
+==== city: Baltimore ====
 
 https://data.baltimorecity.gov/Public-Safety/BPD-Part-1-Victim-Based-Crime-Data/wsfq-mvij
 analysis: https://www.facebook.com/notes/joe-dinoto/analysis-of-baltimore-crime/1949976581926262/
@@ -41,6 +47,8 @@ http://worldpopulationreview.com/us-cities/baltimore-population/
 https://data.ny.gov/
 
 ==== country: united states ====
+
+https://datausa.io/
 
 https://catalog.data.gov/dataset
 
@@ -61,6 +69,9 @@ https://archive.ics.uci.edu/ml/datasets/Wine+Quality
 https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 
 https://labrosa.ee.columbia.edu/millionsong/
+
+https://en.wikipedia.org/wiki/DDB_Needham_Life_Style_Surveys
+http://bowlingalone.com/?page_id=7
 
 == images ==
 https://en.wikipedia.org/wiki/List_of_datasets_for_machine_learning_research#Image_data
