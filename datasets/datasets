@@ -2,6 +2,10 @@
 == list of lists; portals ==
 [making this a list of list of lists]
 
+https://dasl.datadescription.com/
+
+https://lemire.me/blog/2012/03/27/publicly-available-large-data-sets-for-database-research/
+
 https://toolbox.google.com/datasetsearch
 https://news.ycombinator.com/item?id=17919297
 
@@ -77,6 +81,16 @@ Library of Congress
 https://labs.loc.gov/
 
 https://www.census.gov/data/data-tools.html
+https://factfinder.census.gov/faces/nav/jsf/pages/download_center.xhtml
+https://factfinder.census.gov/faces/nav/jsf/pages/community_facts.xhtml?src=bkmk
+
+https://1940census.archives.gov/index.asp
+
+https://www.albany.edu/sourcebook/
+
+https://www.bls.gov/data/
+
+https://www.bts.gov/
 
 ==== world ====
 http://data.un.org/
@@ -86,6 +100,7 @@ https://data.worldbank.org/
 == plain text ==
 
 https://archive.ics.uci.edu/ml/datasets/Wine+Quality
+http://archive.ics.uci.edu/ml/datasets/Dorothea
 
 https://www.cs.toronto.edu/~delve/data/boston/bostonDetail.html
 
