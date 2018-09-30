@@ -1,1 +1,26 @@
 invite a guest speaker
+
+
+* how you decided to do a PhD
+* what topic your research is in
+* how you chose that topic (or if someone else proposed the topic)
+* what your typical day looks like
+* what you plan to do with your degree
+* what are other things you could potentially do with a degree
+* mistakes you've made that would be relevant to data science students
+* how you do research - your process
+* how you collaborate with other researchers
+* how you compete with other researchers
+* how you apply for funding
+* funding success rates
+
+I don't know much about your research topic, but I would have more
+questions about that:
+* what data are you operating on (text, images, video, etc) or is your
+work more theoretical?
+* where do you get your data? Did you clean it? Label it?
+* for computational resources, what are you using? Is this a constraint?
+* how often do you publish?
+* how often do you go to conferences?
+* do you review other people's work?
+
